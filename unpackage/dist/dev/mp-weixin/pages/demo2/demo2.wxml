@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['addCount']]]]}}" bindtap="__e">+</button><count vue-id="d70c0c40-1" count="{{count}}" bind:__l="__l"></count></view>
