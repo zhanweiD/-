@@ -1,6 +1,6 @@
 <template>
 	<view>
-		<text>{{count}}</text>
+		<Count :count="count"></Count>
 		<button @click="addCount()">+</button>
 		<button @click="redCount()">-</button>
 		<button @click="syncCount()">sync -</button>
@@ -8,8 +8,11 @@
 </template>
 
 <script>
+	import Count from './count.vue'
 	export default {
-		
+		components: {
+			Count,
+		},
 		data() {
 			return {
 				count: 1

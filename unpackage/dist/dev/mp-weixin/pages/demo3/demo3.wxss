@@ -1,0 +1,6 @@
+.form-test .item-code {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+

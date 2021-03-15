@@ -1,1 +1,1 @@
-<view><button data-event-opts="{{[['tap',[['addCount']]]]}}" bindtap="__e">+</button><count vue-id="d70c0c40-1" count="{{count}}" bind:__l="__l"></count></view>
+<view class="qiun-columns"><view class="qiun-bg-white qiun-title-bar qiun-common-mt"><view class="qiun-title-dot-light">饼状图</view></view><view class="qiun-charts"><canvas class="charts" canvas-id="canvasPie" id="canvasPie" data-event-opts="{{[['touchstart',[['touchPie',['$event']]]]]}}" bindtouchstart="__e"></canvas></view></view>

@@ -1,7 +1,5 @@
 {
   "navigationBarTitleText": "",
   "enablePullDownRefresh": false,
-  "usingComponents": {
-    "count": "/pages/demo2/add"
-  }
+  "usingComponents": {}
 }
