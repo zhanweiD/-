@@ -3,6 +3,8 @@
 		<button @click="goDemo(1)">demo1</button>
 		<button @click="goDemo(2)">demo2</button>
 		<button @click="goDemo(3)">demo3</button>
+		<button @click="goDemo(4)">demo4</button>
+		<button @click="goDemo(5)">demo5</button>
 	</view>
 </template>
 

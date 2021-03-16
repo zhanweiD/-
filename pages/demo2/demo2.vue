@@ -10,7 +10,7 @@
 </template>
 
 <script>
-	import uCharts from '../component/u-charts/u-charts/u-charts.js';
+	import uCharts from '../../components/u-charts/u-charts/u-charts.js';
 	var _self;
 	var canvaPie=null;
    
