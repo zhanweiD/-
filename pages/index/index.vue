@@ -5,6 +5,7 @@
 		<button @click="goDemo(3)">demo3</button>
 		<button @click="goDemo(4)">demo4</button>
 		<button @click="goDemo(5)">demo5</button>
+		<button @click="goDemo(6)">demo6</button>
 	</view>
 </template>
 
